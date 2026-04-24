@@ -138,6 +138,12 @@ Video view counts are highly right-skewed, meaning a small number of videos rece
 Verified users are more likely to post opinion-based content, while unverified users contribute a larger share of claim-based videos.
 
 <img src="images/claim_vs_verification.png" width="600">
+
+### Median Video Views by Ban Status
+
+Videos published by banned or under-review users receive significantly higher median views compared to active users, suggesting a relationship between high engagement and moderation risk.
+
+<img src="images/median_views_by_ban.png" width="600">
 ---
 
 ## 💡 Recommendations
