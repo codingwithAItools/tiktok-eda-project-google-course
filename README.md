@@ -127,6 +127,11 @@ Key visualizations created during this analysis include:
 
 Example visuals:
 
+### Log-Scaled Video View Distribution
+
+Video view counts are highly right-skewed, meaning a small number of videos receive extremely high views. Applying a log transformation improves visualization and highlights the distribution of most videos.
+
+<img src="images/log_view_boxplot.png" width="600">
 
 ---
 
