@@ -133,6 +133,11 @@ Video view counts are highly right-skewed, meaning a small number of videos rece
 
 <img src="images/log_view_boxplot.png" width="600">
 
+### Claim Status by Verification Status
+
+Verified users are more likely to post opinion-based content, while unverified users contribute a larger share of claim-based videos.
+
+<img src="images/claim_vs_verification.png" width="600">
 ---
 
 ## 💡 Recommendations
